@@ -1,5 +1,5 @@
 TAG = v0.1.0
-PREFIX = gcr.io/google-containers
+PREFIX = gcr.io/imposing-pager-91704
 
 build: prometheus_dummy_exporter
 
